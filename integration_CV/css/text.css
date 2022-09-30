@@ -1,0 +1,70 @@
+
+/* Modifications sur les textes*/
+.toUpCase {
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+h1.toUpCase {
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: smaller;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+h4 {
+    margin: 0;
+    font-weight: bolder;
+    color: black;
+}
+
+h4.span {
+    font-weight: lighter;
+}
+
+h5 {
+    margin: unset;
+    color: #2C8598;
+    padding: 0.3rem 0.3rem 0.3rem 0 ;
+}
+
+p {
+    font-weight: lighter;
+    text-transform: capitalize;
+    margin-top: 0;
+}
+
+.textCentre {
+    padding-top: 3rem;
+}
+
+#profilePic p {
+    font-weight: bolder;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+    width: 6rem;
+}
+
+svg {
+    fill: white;
+}
+
+svg.adobeIcones {
+    fill: grey;
+}
+
+p.toUpCase {
+    margin: 0;
+}
